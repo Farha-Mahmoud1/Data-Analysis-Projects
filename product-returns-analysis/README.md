@@ -31,20 +31,20 @@ An interactive Power BI dashboard developed to analyze product returns and ident
 ## Dashboard Preview
 
 ### Home
-
-![Home](Home.png)
+[Home](Home.png)
 
 ### Overview
-
-![Overview](Overview.png)
+[Overview](Overview.png)
 
 ### Return Analysis
-
-![Return Analysis](Return%20Analysis.png)
+[Return Analysis](Return%20Analysis.png)
 
 ### Customers
+[Customers](Customers.png)
 
-![Customers](Customers.png)
+## Project File
+
+- `Returns_Analysis.pbix` – Power BI report
 
 ## Project File
 
